@@ -4,5 +4,5 @@
               maxTotal="100" maxIdle="30" maxWaitMillis="10000" initialSize="1"
               username="root" password="Hua339u5_BMW"
               driverClassName="com.mysql.cj.jdbc.Driver"
-              url="jdbc:mysql://localhost:3306/usr_system"/>
+              url="jdbc:mysql://192.168.1.66:3306/usr_system"/>
 </Context>
